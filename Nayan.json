@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "sagor-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100048281103451",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100048281103451",
     ""
   ],
   "OWNER": ["100000959749712"], 
